@@ -20,3 +20,9 @@ cache.properties
 # folders
 /vendor/
 /wordpress/
+/build/api/
+/build/coverage/
+/build/dist/
+/build/logs/
+/build/phpdox/
+/build/docs/
